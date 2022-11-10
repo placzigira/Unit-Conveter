@@ -1,0 +1,48 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: #6943FF;
+   padding-top: 10px;
+    height: 30vh;
+    color: #FFF;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
+input{
+    margin-top: 20px;
+    height: 10vh;
+    width: 170px;
+    outline: none;
+    font-size: 40px;
+}
+.semi{
+    background-color: #1F2937;
+    
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-top: 0;
+}
+.sub{
+    background-color: #273549;
+    text-align: center;
+   height: 70px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: #CCC1FF;
+    line-height: 25px;
+}
+button{
+    background-color: #fff;
+    margin-top: 20px;
+    padding: 10px 20px;
+    width: 170px;
+    border: transparent;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
